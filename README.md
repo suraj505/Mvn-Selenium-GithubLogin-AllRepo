@@ -1,5 +1,5 @@
 # github-login
-Trying out selenium in java with [ChromeDriver](https://chromedriver.storage.googleapis.com/index.html?path=78.0.3904.11/) (download the right version for your laptop)
+Trying out selenium in java with [ChromeDriver](https://chromedriver.storage.googleapis.com/index.html) (download the right version for your laptop)
 # git clone https://github.com/NubeEra-MCO/Mvn-Selenium-GithubLogin-AllRepo.git
 # cd Mvn-Selenium-GithubLogin-AllRepo
 # mvn clean
